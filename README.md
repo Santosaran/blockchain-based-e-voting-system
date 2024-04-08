@@ -7,3 +7,8 @@ make sure you installed Xampp
 paste the files in htdocs
 
 after the process import the sql in localhost
+
+http://localhost/votingsystem/admin/home.php (or) http://localhost/votingsystem/home.php
+
+then you can also vote and see the results
+ 
